@@ -1,10 +1,38 @@
 [
   {
     "repo": "Cindy5180/ClubHub-Campus-Club-Registration-System",
-    "sha": "5caedb2",
-    "msg": "CCCRS-4 add project README",
-    "date": "2026-09-19T04:51:29Z",
-    "url": "https://github.com/Cindy5180/ClubHub-Campus-Club-Registration-System/commit/5caedb2619d6be851b622f8afaa5106b9d525c95"
+    "sha": "f1a9db4",
+    "msg": "Merge pull request #8 from Cindy5180/7-update-readme",
+    "date": "2026-10-06T13:41:06Z",
+    "url": "https://github.com/Cindy5180/ClubHub-Campus-Club-Registration-System/commit/f1a9db4cc34f9b4f468eb749a644826b57f17a96"
+  },
+  {
+    "repo": "Cindy5180/ClubHub-Campus-Club-Registration-System",
+    "sha": "b008815",
+    "msg": "ci: limit push trigger to main (#7)",
+    "date": "2026-10-06T13:12:05Z",
+    "url": "https://github.com/Cindy5180/ClubHub-Campus-Club-Registration-System/commit/b008815914798f8b56c90b286c847dcc54900216"
+  },
+  {
+    "repo": "Cindy5180/ClubHub-Campus-Club-Registration-System",
+    "sha": "40ac018",
+    "msg": "test: trigger second run (#7)",
+    "date": "2026-10-06T13:06:21Z",
+    "url": "https://github.com/Cindy5180/ClubHub-Campus-Club-Registration-System/commit/40ac018e7a6219ffe9c0e8acd63aedd3dae0e0bc"
+  },
+  {
+    "repo": "Cindy5180/ClubHub-Campus-Club-Registration-System",
+    "sha": "e96e065",
+    "msg": "ci: add update-readme workflow (#7)",
+    "date": "2026-10-06T12:36:03Z",
+    "url": "https://github.com/Cindy5180/ClubHub-Campus-Club-Registration-System/commit/e96e0656884bcf90febed64dec98d6484b25ea1d"
+  },
+  {
+    "repo": "Cindy5180/ClubHub-Campus-Club-Registration-System",
+    "sha": "cdb7cfa",
+    "msg": "feat: add update_readme script (#7)",
+    "date": "2026-10-06T12:32:09Z",
+    "url": "https://github.com/Cindy5180/ClubHub-Campus-Club-Registration-System/commit/cdb7cfa3b3caddc3a5f51114d2fb986c9ac88c37"
   },
   {
     "repo": "Cindy5180/just-trying",
