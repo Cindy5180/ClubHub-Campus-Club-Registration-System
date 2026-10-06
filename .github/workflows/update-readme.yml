@@ -4,7 +4,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: [main, "7-update-readme"]
+    branches: [main]
     paths-ignore: ["README.md", ".cache/**"]
 permissions:
   contents: write
